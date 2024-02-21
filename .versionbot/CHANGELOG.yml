@@ -1,4 +1,15 @@
 - commits:
+    - subject: Bump balena-lint
+      hash: d72941b93353555447ea379aa6e0761f79e05d4d
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Otavio Jacobi
+  version: 0.1.1
+  title: ""
+  date: 2024-02-21T16:53:54.831Z
+- commits:
     - subject: Add docs
       hash: b9411677a47432bea882530c472fdd0f84e82cbf
       body: ""

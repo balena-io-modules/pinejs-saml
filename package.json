@@ -1,6 +1,6 @@
 {
   "name": "@balena/pinejs-saml",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A PineJS SAML plugin",
   "main": "build/index.js",
   "scripts": {
@@ -20,6 +20,6 @@
     "typescript": "^5.2.2"
   },
   "versionist": {
-    "publishedAt": "2024-02-21T16:28:19.202Z"
+    "publishedAt": "2024-02-21T16:53:54.875Z"
   }
 }
