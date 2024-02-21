@@ -1,0 +1,25 @@
+- commits:
+    - subject: Add docs
+      hash: b9411677a47432bea882530c472fdd0f84e82cbf
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Otavio Jacobi
+    - subject: Add SAML identity provider and account
+      hash: c0209f346f1cfe7c360689e6be2ba8f3037c6ae7
+      body: ""
+      footer:
+        Change-type: minor
+        change-type: minor
+      author: Otavio Jacobi
+    - subject: Add repo skeleton
+      hash: d1b9571e8e916134ea28aa50e654ad910e63d177
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Otavio Jacobi
+  version: 0.1.0
+  title: ""
+  date: 2024-02-21T16:28:19.133Z
