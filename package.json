@@ -13,7 +13,7 @@
   "author": "Balena Inc. <hello@balena.io>",
   "license": "Apache-2.0",
   "devDependencies": {
-    "@balena/lint": "^7.0.2",
+    "@balena/lint": "^7.3.0",
     "@balena/pinejs": "^15.6.2",
     "husky": "^8.0.3",
     "lint-staged": "^14.0.1",
