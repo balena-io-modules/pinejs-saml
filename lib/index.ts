@@ -68,6 +68,6 @@ export const samlModel = {
 			END IF;
 			END;
 			$$
-		`
+		`,
 	},
 } satisfies sbvrUtils.ExecutableModel;
