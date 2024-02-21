@@ -1,0 +1,24 @@
+{
+  "name": "@balena/pinejs-saml",
+  "version": "0.0.1",
+  "description": "A PineJS SAML plugin",
+  "main": "build/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "npm run lint",
+    "prettify": "balena-lint -e ts --fix lib",
+    "lint": "balena-lint -e ts lib && npx tsc --noEmit",
+    "prepare": "node -e \"try { require('husky').install() } catch (e) {if (e.code !== 'MODULE_NOT_FOUND') throw e}\" && npm run build"
+  },
+  "author": "Balena Inc. <hello@balena.io>",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "@balena/lint": "^7.0.2",
+    "husky": "^8.0.3",
+    "lint-staged": "^14.0.1",
+    "typescript": "^5.2.2"
+  },
+  "versionist": {
+    "publishedAt": "2023-09-03T12:56:11.574Z"
+  }
+}
