@@ -1,4 +1,15 @@
 - commits:
+    - subject: Ingest sbvr as a string
+      hash: 5d7e08d98e45f237282df71f71329f433c5ada6d
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Otavio Jacobi
+  version: 0.2.1
+  title: ""
+  date: 2024-02-21T18:32:27.201Z
+- commits:
     - subject: Add sbvr terms
       hash: 43646099fadd978bd203e2c81013fcf51b373786
       body: ""
