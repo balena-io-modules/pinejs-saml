@@ -1,4 +1,15 @@
 - commits:
+    - subject: Add sbvr terms
+      hash: 43646099fadd978bd203e2c81013fcf51b373786
+      body: ""
+      footer:
+        Change-type: minor
+        change-type: minor
+      author: Otavio Jacobi
+  version: 0.2.0
+  title: ""
+  date: 2024-02-21T17:42:03.519Z
+- commits:
     - subject: Bump balena-lint
       hash: d72941b93353555447ea379aa6e0761f79e05d4d
       body: ""
