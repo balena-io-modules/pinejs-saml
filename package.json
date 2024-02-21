@@ -14,6 +14,7 @@
   "license": "Apache-2.0",
   "devDependencies": {
     "@balena/lint": "^7.0.2",
+    "@balena/pinejs": "^15.6.2",
     "husky": "^8.0.3",
     "lint-staged": "^14.0.1",
     "typescript": "^5.2.2"
