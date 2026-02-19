@@ -1,4 +1,17 @@
 - commits:
+    - subject: "Add id-token: write permission for NPM OIDC publishing"
+      hash: 97ab3b79b7b1f8219c0c23d71377467d5dda7963
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Kyle Harding <kyle@balena.io>
+        signed-off-by: Kyle Harding <kyle@balena.io>
+      author: Kyle Harding
+  version: 0.2.2
+  title: ""
+  date: 2026-02-19T01:53:02.253Z
+- commits:
     - subject: Ingest sbvr as a string
       hash: 5d7e08d98e45f237282df71f71329f433c5ada6d
       body: ""
